@@ -4,6 +4,7 @@ la ritorni girata (es. Ciao -> oaiC)
 
 const str = 'Alessio'
 
+
 console.log(reverseString(str));
 
 function reverseString(string) {
